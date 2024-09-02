@@ -1,0 +1,179 @@
+p {
+  font-size: 18px;
+}
+
+nav {
+  font-family: "Architects Daughter", cursive;
+}
+nav ul li a:hover {
+  color: lightskyblue;
+  background-color: black;
+}
+nav .dropdown-menu li a:hover {
+  color: lightskyblue;
+  background-color: black;
+}
+
+.welcome {
+  background-color: #30373d;
+  font-family: "Kaushan Script", cursive;
+}
+.welcome h1 {
+  text-align: center;
+  margin-top: auto;
+  color: white;
+}
+.welcome h5 {
+  text-align: center;
+  color: white;
+}
+.welcome h5 span {
+  background-color: white;
+  color: black;
+  padding: 5px;
+}
+
+.jumbotron {
+  background-color: #545c62;
+  padding-top: 6rem;
+  font-family: "Kaushan Script", cursive;
+  color: black;
+}
+.jumbotron .lead {
+  font-family: "Architects Daughter", cursive;
+}
+
+#story {
+  background-color: #000000;
+}
+
+.story h1 {
+  font-family: "Kaushan Script", cursive;
+}
+.story h3 {
+  font-family: "Kaushan Script", cursive;
+}
+.col a {
+  text-decoration: none;
+  color: white;
+  font-family: "Architects Daughter", cursive;
+}
+.col a:hover {
+  color: lightskyblue;
+}
+.col a:hover img {
+  width: 100%;
+}
+.col a:hover h3 {
+  text-decoration: underline rgb(0, 81, 255);
+}
+.col a h5 {
+  color: rgb(172, 172, 172);
+  font-family: "Architects Daughter", cursive;
+}
+.col a:hover h5 {
+  color: lightskyblue;
+}
+.experience {
+  border: 1px solid white;
+}
+.opinion {
+  border: 1px solid white;
+}
+.recommendation {
+  border: 1px solid white;
+}
+
+#work {
+  background-color: #545c62;
+}
+
+.work h1 {
+  font-family: "Kaushan Script", cursive;
+}
+.work h3 {
+  font-family: "Kaushan Script", cursive;
+  border-left: 5px solid black;
+  padding-left: 10px;
+}
+.gallery ul {
+  list-style: none;
+  display: flex;
+  margin-left: 20px;
+}
+.gallery ul li {
+  width: 20%;
+  text-align: center;
+  background: none;
+  color: white;
+  border: none;
+  font-family: "Architects Daughter", cursive;
+}
+.gallery ul li a img {
+  border: 4px solid black;
+}
+.gallery ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.gallery ul li a h4 {
+  color: black;
+}
+.gallery ul li a:hover {
+  color: lightskyblue;
+}
+.gallery ul li a:hover img {
+  width: 95%;
+  border: 6px solid lightskyblue;
+}
+.gallery ul li a:hover h4 {
+  color: lightskyblue;
+  font-size: 22px;
+}
+
+.fiction ul {
+  list-style: none;
+  margin-left: 20px;
+}
+.fiction ul a {
+  text-decoration: none;
+}
+.fiction ul a li {
+  background: none;
+  border: none;
+  border-bottom: 1px solid black;
+  color: white;
+  font-family: "Architects Daughter", cursive;
+}
+.fiction ul a:hover li {
+  background-color: rgba(54, 54, 54, 0.76);
+  color: lightskyblue;
+  font-size: 21px;
+}
+
+#aboutme {
+  background-color: #000000;
+}
+
+.about h1 {
+  font-family: "Kaushan Script", cursive;
+}
+.about h2 {
+  font-family: "Kaushan Script", cursive;
+}
+.about a h5 {
+  color: white;
+}
+.about a:hover h5 {
+  text-decoration: underline;
+  color: lightskyblue;
+  background-color: rgba(54, 54, 54, 0.76);
+}
+.about .col {
+  font-family: "Architects Daughter", cursive;
+}
+
+footer {
+  font-family: "Architects Daughter", cursive;
+}
